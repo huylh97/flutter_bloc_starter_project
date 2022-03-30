@@ -33,9 +33,18 @@ The Boilerplate contains the minimal implementation required to create a new lib
 * Account/Setting
 
 Some screenshots: 
-:-------------------------:|:-------------------------:|:-------------------------:
-![ScreenShot](./screenshots/home_screen.png) | ![ScreenShot](./screenshots/signin_screen.png) | ![ScreenShot](./screenshots/home_screen.png)
-![ScreenShot](./screenshots/account_screen.png) | ![ScreenShot](./screenshots/setting_screen.png) | ![ScreenShot](./screenshots/language_screen.png)
+
+<p float="left">
+  <img src="./screenshots/home_screen.png" width="200" />
+  <img src="./screenshots/signin_screen.png" width="200" /> 
+  <img src="./screenshots/home_screen.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="./screenshots/account_screen.png" width="200" />
+  <img src="./screenshots/setting_screen.png" width="200" /> 
+  <img src="./screenshots/language_screen.png" width="200" />
+</p>
 
 ### Folder Structure
 Here is the core folder structure which flutter provides.
