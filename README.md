@@ -35,7 +35,7 @@ The Boilerplate contains the minimal implementation required to create a new lib
 Some screenshots: 
 
 <p float="left">
-  <img src="./screenshots/home_screen.png" width="200" />
+  <img src="./screenshots/splash_screen.png" width="200" />
   <img src="./screenshots/signin_screen.png" width="200" /> 
   <img src="./screenshots/home_screen.png" width="200" />
 </p>
